@@ -1,0 +1,13 @@
+{
+    "name": "sistema-casa-eventos",
+    "version": "1.0.0",
+    "description": "Sistema para gestão de reservas e eventos",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
